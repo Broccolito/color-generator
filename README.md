@@ -1,4 +1,6 @@
-# Color Generator Shiny App User Guide
+# Color Generator
+
+Author: Wanjun Gu
 
 ## Overview
 
